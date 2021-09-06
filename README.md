@@ -14,9 +14,9 @@ A hands on session on understanding the basics of network analysis. This session
 
 # Code for Climate 2.0
 
-•	Session 1- Why to code for Climate? – 
-•	Session 2- Theory on Remote Sensing Tech (resource used:- https://www.youtube.com/watch?v=xAyNu9HbK8s) with hands on excerises on accessing and analyzing satellite imagery using Python in Jupyter notebook : Mapping vegetation and surface water using earthpy
-•	Session 4- Hands on (geospatial analysis and interactive mapping in a Jupyter environment using Leafmap https://leafmap.org/)
+Session 1- Why to code for Climate? – 
+Session 2- Theory on Remote Sensing Tech (resource used:- https://www.youtube.com/watch?v=xAyNu9HbK8s) with hands on excerises on accessing and analyzing satellite imagery using Python in Jupyter notebook : Mapping vegetation and surface water using earthpy
+Session 3- Hands on (geospatial analysis and interactive mapping in a Jupyter environment using Leafmap https://leafmap.org/)
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dhritirajsen/code_for_climate/main?filepath=Earthpy_1.ipynb)
